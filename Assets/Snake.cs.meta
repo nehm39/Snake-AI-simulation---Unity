@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 1f13216ee73332549916173740cada55
+timeCreated: 1464087198
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - food1Prefab: {fileID: 175854, guid: 19791aeb10cdd9c4e9418b0f478c66cd, type: 2}
+  - food2Prefab: {fileID: 133236, guid: 448d8480cd1b9414d9f8425fef3ee90e, type: 2}
+  - food3Prefab: {fileID: 193020, guid: ac450f9807c9f4f4e81620dd572e6fb7, type: 2}
+  - energyPrefab: {fileID: 194312, guid: 18984a6b9db22ab429ea02d876feed1f, type: 2}
+  - bonusPrefab: {fileID: 197372, guid: 8d00483bf32df6547aace0302b077604, type: 2}
+  - dynamitePrefab: {fileID: 138168, guid: cc8dac1d632991a42b7ffc0d4be98269, type: 2}
+  - borderTop: {instanceID: 0}
+  - borderBottom: {instanceID: 0}
+  - borderLeft: {instanceID: 0}
+  - borderRight: {instanceID: 0}
+  - tailPrefab: {fileID: 168570, guid: 8dcc55019e8cccc45ae35db1d618cd89, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
